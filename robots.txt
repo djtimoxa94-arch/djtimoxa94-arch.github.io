@@ -1,0 +1,3 @@
+   User-agent: *
+   Allow: /
+   Sitemap: https://djtimoxa94-arch.github.io/koloritbeton-site/sitemap.xml
